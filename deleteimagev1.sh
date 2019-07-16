@@ -2,6 +2,7 @@
 #Purpose of this script is to automatically find and delete disk images that are 60 days or older and are stored on the G-drive attached to the transfer station.
 #This script will run as a launchagent on the transfer station at 4PM every day. 
 #Version 1.0
+#Created by Anuj Chokshi for Simons Foundation 
 
 #timestamp to add for logging puroposes.
 TIMESTAMP="$(/bin/date +"%Y-%m-%d %H:%M:%S %z %Z")"
