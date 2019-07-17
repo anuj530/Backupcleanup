@@ -6,14 +6,14 @@
         <string>com.diskcleanup.test</string>
         <key>ProgramArguments</key>
         <array>
-                    <string>/Users/achokski/Desktop/testscripts/deleteimage.sh</string>
+                    <string>/Users/achokski/Desktop/testscripts/deleteimagev2.sh</string>
          </array>
         <key>StartCalendarInterval</key>
         <dict>
             <key>Hour</key>
-            <integer>16</integer>
+            <integer>09</integer>
             <key>Minute</key>
-            <integer>0</integer>
+            <integer>05</integer>
         </dict>
         <key>StandardErrorPath</key>
         <string>/tmp/test.stderr</string>
