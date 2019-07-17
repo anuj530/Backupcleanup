@@ -1,0 +1,79 @@
+Following disk images have been removed from the G-Drive on 2019-07-16 17:03:01 -0400 EDT
+ 
+2019-07-16 17:03:01 -0400 EDT /Users/achokski/Desktop/Testing/LockedImage.png
+find: -delete: unlink(/Users/achokski/Desktop/Testing/LockedImage.png): Operation not permitted
+ 
+-------------------------------------------
+ 
+Following disk images have been removed from the G-Drive on 2019-07-16 17:05:00 -0400 EDT
+ 
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.18.55 AM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/LockedImage.png
+find: -delete: unlink(/Users/achokski/Desktop/Testing/LockedImage.png): Operation not permitted
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 11.06.04 AM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.33 PM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-03-01 at 12.49.43 PM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.30.09 AM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.47.23 AM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.27 PM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.40.06 AM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.18 PM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.43.46 AM.png
+2019-07-16 17:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-06-13 at 10.21.37 AM.png
+ 
+-------------------------------------------
+ 
+Following disk images have been removed from the G-Drive on 2019-07-16 17:10:00 -0400 EDT
+ 
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.18.55 AM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/LockedImage.png
+find: -delete: unlink(/Users/achokski/Desktop/Testing/LockedImage.png): Operation not permitted
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 11.06.04 AM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.33 PM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-03-01 at 12.49.43 PM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.30.09 AM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.47.23 AM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.27 PM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.40.06 AM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.18 PM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.43.46 AM.png
+2019-07-16 17:10:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-06-13 at 10.21.37 AM.png
+ 
+-------------------------------------------
+ 
+Following disk images have been removed from the G-Drive on 2019-07-16 17:22:00 -0400 EDT
+ 
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.18.55 AM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/LockedImage.png
+find: -delete: unlink(/Users/achokski/Desktop/Testing/LockedImage.png): Operation not permitted
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 11.06.04 AM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.33 PM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-03-01 at 12.49.43 PM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.30.09 AM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.47.23 AM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.27 PM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.40.06 AM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.18 PM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.43.46 AM.png
+2019-07-16 17:22:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-06-13 at 10.21.37 AM.png
+ 
+-------------------------------------------
+ 
+Following disk images have been removed from the G-Drive on 2019-07-17 09:05:00 -0400 EDT
+ 
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.18.55 AM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/LockedImage.png
+find: -delete: unlink(/Users/achokski/Desktop/Testing/LockedImage.png): Operation not permitted
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 11.06.04 AM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.33 PM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-03-01 at 12.49.43 PM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.30.09 AM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.47.23 AM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.27 PM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-15 at 10.40.06 AM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-05-23 at 12.51.18 PM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-02-28 at 10.43.46 AM.png
+2019-07-17 09:05:00 -0400 EDT /Users/achokski/Desktop/Testing/Screen Shot 2019-06-13 at 10.21.37 AM.png
+ 
+-------------------------------------------
+ 
